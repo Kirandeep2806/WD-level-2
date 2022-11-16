@@ -1,4 +1,3 @@
-// Done by Nikhil Maroju
 
 const http = require("http");
 const fs = require("fs");
